@@ -14,6 +14,7 @@ class AuthenticationTrue: UIViewController {
         text.text = "Success"
         text.translatesAutoresizingMaskIntoConstraints = false
         text.textColor = .black
+        text.textAlignment = .center
         return text
     }()
     
